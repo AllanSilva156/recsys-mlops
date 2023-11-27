@@ -14,7 +14,7 @@ The Brazilian E-Commerce Public Dataset is a dataset created by [Olist](https://
 
 The original dataset contains 8 tables and the relationships between them can be visualized in the schema below.
 
-<img src="https://github.com/AllanSilva156/recsys-mlops/blob/main/data/schema.png?raw=true" alt="data schema" width="600" height="400">
+<img src="https://github.com/AllanSilva156/recsys-mlops/blob/main/data/tables/schema.png?raw=true" alt="data schema" width="600" height="400">
 
 A brief summary of the information contained in each table can be seen below.
 1. `olist_customers_dataset`: information about the customer and its location.
